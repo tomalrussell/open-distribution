@@ -1,4 +1,7 @@
 # open-distribution
+
+[![Join the chat at https://gitter.im/open-distribution-chat/community](https://badges.gitter.im/open-distribution-chat/community.svg)](https://gitter.im/open-distribution-chat/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Open, bottom-up distribution requests
 
 ## Problem statement
