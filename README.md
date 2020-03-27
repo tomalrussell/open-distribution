@@ -30,3 +30,10 @@ Allows frontline health staff to notify of PPE shortgages, compile those request
 We're designing and building this in the open. Please contribute.
 
 All data involved will be openly created, collected and maintained. Here's an [Open Data Institute Guide to Collaborative Data Maintenance?](https://collaborative-data.theodi.org/what-is-collaborative-maintenance/).
+
+## Who
+
+- Katz Kiely
+- Dominic Humphrey
+- Tom Russell
+- &hellip;
