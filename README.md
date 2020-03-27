@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/open-distribution-chat/community](https://badges.gitter.im/open-distribution-chat/community.svg)](https://gitter.im/open-distribution-chat/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join Slack(https://img.shields.io/badge/Slack-Join%20Slack-blue)](https://join.slack.com/t/frontline-open-dist/shared_invite/zt-cykworuq-FmZymOxfsFEKeltFpFIfjA)]
+
 Open, bottom-up distribution requests
 
 ## Problem statement
