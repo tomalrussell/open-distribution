@@ -18,9 +18,15 @@ Allows frontline health staff to notify of PPE shortgages, compile those request
 
 ## Proof of concept idea
 
-1. Media agency spread word of platform, testing in Yorks to frontline workers to tweet needs
+1. Media agency spread word of platform, testing in Yorkshire to frontline workers to tweet needs
 2. Bot watches twitter and facebook for key hash tags
 3. Bot responds with webform having checked request contains postcode with NHS premises (& care homes?)
 4. User fills in simple webform
-5. Webform published to database and front end with map and request details including twitter handle
-6. Bot returns unique code for their request
+5. Webform published to database and front end with map and request details
+6. Request matched with supply, enable purchase order to be made, thank all concerned
+
+## Values: open design, open source, open data
+
+We're designing and building this in the open. Please contribute.
+
+All data involved will be openly created, collected and maintained. Here's an [Open Data Institute Guide to Collaborative Data Maintenance?](https://collaborative-data.theodi.org/what-is-collaborative-maintenance/).
