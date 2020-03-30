@@ -1,4 +1,4 @@
-#!/bin/bash -ex
+#!/bin/bash
 
 STACK_NAME=odcore
 REGION=eu-west-2
